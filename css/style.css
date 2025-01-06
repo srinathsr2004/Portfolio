@@ -639,7 +639,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	margin-bottom: 100px;
-	margin-top: 100px;
+	margin-top: 50px;
 }
 .foliox_tm_about .wrapper{
 	width: 100%;
@@ -2350,7 +2350,7 @@ input[type=number] {-moz-appearance:textfield; /* Firefox */
 	.foliox_tm_about .small_image .in{display: none;}
 	.foliox_tm_about .big_image{float: left;}
 	.foliox_tm_about{margin-bottom: 165px;
-	margin-top: 150px;}
+	margin-top: 50px;}
 	.foliox_tm_counter .counter_list ul li{width: 33.3333%;}
 	.foliox_tm_skills .list{flex-direction: column;}
 	.foliox_tm_skills .left{width: 100%;padding-right: 0px;margin-bottom: 7px;}
@@ -2453,6 +2453,15 @@ input[type=number] {-moz-appearance:textfield; /* Firefox */
 	.container-project{
 		padding-left: 10px !important;
 		padding-right: 10px !important;
+	}
+	.foliox_tm_hero .content{
+		height: 60vh !important;
+	}
+	.foliox_tm_hero{
+		height: 50vh !important;
+	}
+	.foliox_tm_copyright{
+		margin-bottom: 150px !important;
 	}
 }
 
